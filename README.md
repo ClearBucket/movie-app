@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Challenges
+
+Relearning React on the fly as it has been 6+ months since I had worked with it. Finding the time for this project with everything going on in my current position keeping me busy. Overcame this by putting as much as I could toward this with energy drinks involved. I did not find the time to put testing in place or add features beyond the base.
+
+## Design Decisions
+
+I chose TypeScript to help keep cleaner more structured code, Redux for the data store to pass around data to components so I would not have to maintain a complicated parent-child relationship. The code is, mostly, structured with the expansion of features in mind given the availability of various APIs.
+
+## Future Improvements
+
+Naming, cleaner Redux setup. Desktop and mobile share, a more modern UI design outside of Bootstrap. Get the image route from the configuration API, set the prefix URL and API key as environment variables.
